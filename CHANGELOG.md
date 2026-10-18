@@ -2,9 +2,35 @@
 
 All notable releases published in this repository.
 
+## v4.1.8 — 2026-10-18
+
+Release automatica v4.1.8
+
+**Assets:** `agente_v3.exe` · `agente_v3.exe.sha256` · `ddnspro-bin-4.1.8.zip` · `ddnspro-bin-4.1.8.zip.sha256` · `ddns_engine.exe` · `ddns_engine.exe.sha256` · `DynamicDNSPro-Agent-Setup-4.1.8.exe` · `DynamicDNSPro-Agent-Setup-4.1.8.exe.sha256` · `DynamicDNSPro-Remote-Setup-4.1.8.exe` · `DynamicDNSPro-Remote-Setup-4.1.8.exe.sha256` · `fleet.json` · `smartctl.exe` · `smartctl.exe.sha256` · `supervisor.exe` · `supervisor.exe.sha256` · `version.json`
+
 ## v4.1.7 — 2026-10-18
 
-Release automatica v4.1.7
+## Release v4.1.7
+
+Official signed binaries. Docs: https://mavksoft.github.io/dynamicdnspro-releases/
+
+### Assets
+- `agente_v3.exe`
+- `agente_v3.exe.sha256`
+- `ddnspro-bin-4.1.7.zip`
+- `ddnspro-bin-4.1.7.zip.sha256`
+- `ddns_engine.exe`
+- `ddns_engine.exe.sha256`
+- `DynamicDNSPro-Agent-Setup-4.1.7.exe`
+- `DynamicDNSPro-Agent-Setup-4.1.7.exe.sha256`
+- `DynamicDNSPro-Remote-Setup-4.1.7.exe`
+- `DynamicDNSPro-Remote-Setup-4.1.7.exe.sha256`
+- `fleet.json`
+- `smartctl.exe`
+- `smartctl.exe.sha256`
+- `supervisor.exe`
+- `supervisor.exe.sha256`
+- `version.json`
 
 **Assets:** `agente_v3.exe` · `agente_v3.exe.sha256` · `ddnspro-bin-4.1.7.zip` · `ddnspro-bin-4.1.7.zip.sha256` · `ddns_engine.exe` · `ddns_engine.exe.sha256` · `DynamicDNSPro-Agent-Setup-4.1.7.exe` · `DynamicDNSPro-Agent-Setup-4.1.7.exe.sha256` · `DynamicDNSPro-Remote-Setup-4.1.7.exe` · `DynamicDNSPro-Remote-Setup-4.1.7.exe.sha256` · `fleet.json` · `smartctl.exe` · `smartctl.exe.sha256` · `supervisor.exe` · `supervisor.exe.sha256` · `version.json`
 

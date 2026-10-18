@@ -23,10 +23,10 @@
 
 | | |
 |---|---|
-| 📱 **App móvel** | iOS e Android — registe-se grátis em [dynamicdnspro.com](https://dynamicdnspro.com) |
-| 🪟 **Agent (Windows)** | [DynamicDNSPro-Agent-Setup.exe](https://github.com/mavksoft/dynamicdnspro-releases/releases/latest) — atualização de IP, auditoria do dispositivo e monitorização de serviços |
-| 🖥️ **Remote (Windows)** | [DynamicDNSPro-Remote-Setup.exe](https://github.com/mavksoft/dynamicdnspro-releases/releases/latest) — desktop remoto WebRTC e transferência de ficheiros segura |
-| 🌍 **Site oficial** | [dynamicdnspro.com](https://dynamicdnspro.com) — portal de cliente, planos e FAQ |
+| <img src='https://raw.githubusercontent.com/mavksoft/dynamicdnspro-releases/main/icons/apple.svg' width='15' style='vertical-align:-2px' alt='apple'><img src='https://raw.githubusercontent.com/mavksoft/dynamicdnspro-releases/main/icons/android.svg' width='15' style='vertical-align:-2px' alt='android'> **App móvel** | iOS e Android — registe-se grátis em [dynamicdnspro.com](https://dynamicdnspro.com) |
+| <img src='https://raw.githubusercontent.com/mavksoft/dynamicdnspro-releases/main/icons/windows.svg' width='15' style='vertical-align:-2px' alt='windows'> **Agent (Windows)** | [DynamicDNSPro-Agent-Setup.exe](https://github.com/mavksoft/dynamicdnspro-releases/releases/latest) — atualização de IP, auditoria do dispositivo e monitorização de serviços |
+| <img src='https://raw.githubusercontent.com/mavksoft/dynamicdnspro-releases/main/icons/windows.svg' width='15' style='vertical-align:-2px' alt='windows'> **Remote (Windows)** | [DynamicDNSPro-Remote-Setup.exe](https://github.com/mavksoft/dynamicdnspro-releases/releases/latest) — desktop remoto WebRTC e transferência de ficheiros segura |
+| <img src='https://dynamicdnspro.com/assets/img/logo.png' width='15' style='vertical-align:-2px'> **Site oficial** | [dynamicdnspro.com](https://dynamicdnspro.com) — portal de cliente, planos e FAQ |
 
 ## O que é
 

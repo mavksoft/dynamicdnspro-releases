@@ -30,6 +30,8 @@
 
 Dynamic DNS Pro asocia un nombre fácil de recordar (tu-servidor.dynamicdnspro.com) con la IP pública dinámica de tu red. La app detecta cada cambio de red — de Wi-Fi a 4G/5G, de casa a cualquier sitio — y actualiza el registro en segundos. Olvídate de scripts y de IPs que caducan: accede a tu NAS, tu servidor o tu cámara siempre por el mismo nombre.
 
+<p align="center"><img src="./screenshots/website.png" width="640" alt="screenshot"></p>
+
 ## Funciones
 
 - **Sincronización instantánea** — la app móvil detecta los cambios de red (Wi-Fi ↔ 4G/5G) y reporta la nueva IP en segundos.

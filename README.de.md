@@ -30,6 +30,8 @@
 
 Dynamic DNS Pro verknüpft einen einprägsamen Namen (dein-server.dynamicdnspro.com) mit der wechselnden öffentlichen IP deines Netzwerks. Die App erkennt jeden Netzwechsel — WLAN zu 4G/5G, zu Hause und unterwegs — und aktualisiert den Eintrag in Sekunden. Keine Skripte, keine veralteten IPs: NAS, Server oder Kamera sind immer unter demselben Namen erreichbar.
 
+<p align="center"><img src="./screenshots/website.png" width="640" alt="screenshot"></p>
+
 ## Funktionen
 
 - **Sofort-Sync** — die App erkennt Netzwechsel (WLAN ↔ 4G/5G) und meldet die neue IP in Sekunden.

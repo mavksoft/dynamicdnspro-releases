@@ -30,6 +30,8 @@
 
 Dynamic DNS Pro binds a memorable name (your-server.dynamicdnspro.com) to your network's changing public IP. The app detects every network change — Wi-Fi to 4G/5G, home to anywhere — and updates the record in seconds. No scripts, no stale IPs: reach your NAS, server or camera by the same name, always.
 
+<p align="center"><img src="./screenshots/website.png" width="640" alt="screenshot"></p>
+
 ## Features
 
 - **Instant sync** — the mobile app detects network changes (Wi-Fi ↔ 4G/5G) and reports the new IP in seconds.
